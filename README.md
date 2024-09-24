@@ -1,6 +1,6 @@
 # Minimal C# .NET Core 8.0 API
 
-This is a minimal C# .NET Core 8.0 API project for a `Microsoft Learn` course.
+This is a minimal C# .NET Core 8.0 API project for a [Microsoft Learn](https://learn.microsoft.com) course.
 
 ## Prerequisites
 
